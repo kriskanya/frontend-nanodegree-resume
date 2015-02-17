@@ -55,8 +55,8 @@ var education = {
     {
       "name": "UCLA",
       "location": "Los Angeles, CA",
-      "degree": "BA",
-      "majors": ["Political Science", "American Politics"],
+      "degree": "Bachelor of Arts",
+      "majors": ["Political Science, American Politics"],
       "dates": "September 2005 - June 2009",
       "url": "http://www.ucla.edu"
     }
@@ -198,7 +198,6 @@ function populateBio(divId) {
 }
 
 // Function calls
-
 bio.display();
 
 work.display();

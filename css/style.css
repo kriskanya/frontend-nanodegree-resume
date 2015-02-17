@@ -13,6 +13,10 @@
   padding-right: 5%;
 }
 
+.education-entry a {
+  margin-top: 10px;
+}
+
 h1 {
   font-size: 40px;
   color: #F5A623;
@@ -33,6 +37,7 @@ h3 {
   font-size: 20px;
   color: #000000;
   line-height: 22px;
+  margin-top: 20px;
 }
 
 h4 {
@@ -75,7 +80,6 @@ p {
 a {
   color: #1199C3;
   text-decoration: none;
-  margin-top: 10px;
   display: block;
 }
 
